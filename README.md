@@ -59,20 +59,20 @@ The app uses **mock data only**—there is **no backend integration**. It showca
 
 ### Login Screen
 
-![Login](screenshots/login_screen.jpg)
+<img src="screenshots/login_screen.jpg" alt="Login" width="270">
 
 ### Signup Screen
 
-![Signup](screenshots/signup_screen.jpg)
+<img src="screenshots/signup_screen.jpg" alt="Signup" width="270">
 
 ### 🏠 Dashboard Screen
 
-![Dashboard](screenshots/dashboard.jpg)
+<img src="screenshots/dashboard.jpg" alt="Dashboard" width="270"/>
 
 ### 🏆 Leaderboard Screen
 
-![Leaderboard](screenshots/leaderboard.jpg)
+<img src="screenshots/leaderboard.jpg" alt="Leaderboard" width="270">
 
 ### 📢 Announcements Screen
 
-![Announcements](screenshots/announcements.jpg)
+<img src="screenshots/announcements.jpg" alt="Signup" width="270">
